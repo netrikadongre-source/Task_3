@@ -82,4 +82,4 @@ GitHub: netrikadongre-source*
 
 ## 📄 License
 
-This project is licensed under the [MIT License](LICENSE).
+This project is **free to use** for learning and non-commercial purposes. No formal license is applied.
